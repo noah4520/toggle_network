@@ -7,7 +7,7 @@
 ### 使用 Apple 捷徑（預設推薦）
 
 1. 確認 Mac 電腦有 「捷徑」應用程式（通常為內建）。
-2. 點擊安裝[Wi-Fi 設定切換器](https://www.icloud.com/shortcuts/a45946c0b5334d4c9ffc644ce5cf5c8b)，並輸入設定資訊。
+2. 點擊安裝[Wi-Fi 設定切換器](https://www.icloud.com/shortcuts/f98ecce5b5724ea5ae23349473e07271)，並輸入設定資訊。
 
 ### 手動設定 Bash
 
